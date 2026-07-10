@@ -1,0 +1,54 @@
+{
+    "manifest_version": 2,
+    "name": "Material Luxe",
+    "version": "1.0",
+    "description": "A premium dark theme with an elegant Material Design finish. Features elevated surfaces, subtle borders, and refined colors. Designed to match the color palette of the AllTab extension for a seamless visual experience.",
+    "theme": {
+        "colors": {
+            "frame": "#1c1c1e",
+            "frame_inactive": "#1c1c1e",
+            "tab_background_text": "#aeaeb2",
+            "toolbar": "#2c2c2e",
+            "toolbar_text": "#f2f2f5",
+            "toolbar_field": "#232325",
+            "toolbar_field_text": "#f2f2f5",
+            "toolbar_field_border": "#38383a",
+            "toolbar_field_focus": "#2c2c2e",
+            "toolbar_field_text_focus": "#ffffff",
+            "toolbar_field_highlight": "#0a84ff",
+            "toolbar_field_highlight_text": "#ffffff",
+            "toolbar_top_separator": "#38383a",
+            "toolbar_bottom_separator": "#1c1c1e",
+            "toolbar_vertical_separator": "#38383a",
+            "tab_background_separator": "#1c1c1e",
+            "tab_loading": "#0a84ff",
+            "tab_line": "#0a84ff",
+            "tab_selected": "#2c2c2e",
+            "tab_text": "#f2f2f5",
+            "icons": "#aeaeb2",
+            "icons_attention": "#ff453a",
+            "bookmark_text": "#f2f2f5",
+            "button_background_hover": "rgba(255, 255, 255, 0.03)",
+            "button_background_active": "rgba(255, 255, 255, 0.05)",
+            "popup": "#232325",
+            "popup_text": "#f2f2f5",
+            "popup_border": "#38383a",
+            "popup_highlight": "rgba(255, 255, 255, 0.05)",
+            "popup_highlight_text": "#ffffff",
+            "sidebar": "#1c1c1e",
+            "sidebar_text": "#f2f2f5",
+            "sidebar_highlight": "rgba(255, 255, 255, 0.05)",
+            "sidebar_highlight_text": "#ffffff",
+            "sidebar_border": "#38383a",
+            "ntp_background": "#1c1c1e",
+            "ntp_card_background": "#2c2c2e",
+            "ntp_text": "#f2f2f5"
+        }
+    },
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "material-luxe@alltab.pages.dev",
+            "strict_min_version": "67.0"
+        }
+    }
+}
